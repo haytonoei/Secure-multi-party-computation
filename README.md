@@ -1,6 +1,8 @@
 # Secure-multi-party-computation (MPC)
 Solution 3: mathematical, replaced by TEE, never decrypt, homomorphic encryption 
 
+allows parties to perform computations on data while keeping that data private
+
 
 "combines sketches without ever decrypting them and only computes a single noisy reach and frequency estimate
 
